@@ -50,7 +50,7 @@ GET /books
 - description: string
 
 ```
-GET /books
+POST /books
 ```
 
 #### response:
